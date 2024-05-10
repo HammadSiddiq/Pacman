@@ -9,7 +9,7 @@
 I have created a maze with the pellets and walls. I have not added the player yet.
 
 
-#### Version 02
+##### Version 02
 
 I have added the player to the game and have also implemented the player motion. Currently the player is static and moves with the keys. Later, we can update it to make the motion as exactly the same in Pacman.
 
