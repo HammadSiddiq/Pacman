@@ -36,7 +36,7 @@ I have created movements for two of the enemies: the pink and the blue ones. The
 
 ##### Version 07
 
-
+I have created the paths for the other two enemies as well. I have also added the lives system where the player loses a life on colliding with the enemy and is reset back to its starting position. I have also set up the mechanics where the player can eat ghosts and the ghost are reset back to the safe house
 
 
 ##### Version 08
