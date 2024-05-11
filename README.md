@@ -41,7 +41,7 @@ I have created the paths for the other two enemies as well. I have also added th
 
 ##### Version 08
 
-
+I have completed the game loop. The help section has been added and the restart screen helps the player restart on getting out and the winning screen shows up if the player collects all the pellets
 
 
 ##### Version 09
