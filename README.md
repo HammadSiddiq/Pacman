@@ -45,3 +45,5 @@ I have completed the game loop. The help section has been added and the restart 
 
 
 ##### Version 09
+
+The game has been finalized. The audio has been setup and scoring system has been fully implemented. The game has been thoroughly tested including correct working mechanics and game flow.
